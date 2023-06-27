@@ -23,5 +23,7 @@ postgres=# select id, name , price from cleanings;
  id | name | price
 ----+------+-------
 (0 rows)
-
 ```
+
+
+All Pydantic Models live in /app/models
